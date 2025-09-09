@@ -1,0 +1,30 @@
+{
+    "videos": [
+        {
+            "videoId": "video1", 
+            "title": "Sample Video Title",
+            "caption": "Video description here",
+            "fileId": "1Q2MB5Sp1U5EPsM6gGgrqyNyoF8zxkS0m",
+            "duration": "5:30",
+            "views": 1500,
+            "uploadDate": "2025-01-01",
+            "thumbnail": "🎬",
+            "redirectUrl": "https://otieu.com/4/9849863",
+            "redirectUrl2": "https://otieu.com/4/9849863",
+            "redirectUrl3": "https://otieu.com/4/9849863"
+        },
+        {
+            "videoId": "video2", 
+            "title": "Sample Video Title",
+            "caption": "Video description here",
+            "fileId": "1Q2MB5Sp1U5EPsM6gGgrqyNyoF8zxkS0m",
+            "duration": "5:30",
+            "views": 1500,
+            "uploadDate": "2025-01-01",
+            "thumbnail": "🎬",
+            "redirectUrl": "https://otieu.com/4/9849863",
+            "redirectUrl2": "https://otieu.com/4/9849863",
+            "redirectUrl3": "https://otieu.com/4/9849863"
+        }
+    ]
+}
